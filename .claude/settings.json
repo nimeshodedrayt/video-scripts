@@ -11,10 +11,17 @@
         "source": "github",
         "repo": "heygen-com/hyperframes"
       }
+    },
+    "impeccable": {
+      "source": {
+        "source": "github",
+        "repo": "pbakaus/impeccable"
+      }
     }
   },
   "enabledPlugins": {
     "mattpocock-skills@claude-plugins-official": true,
-    "hyperframes@hyperframes": true
+    "hyperframes@hyperframes": true,
+    "impeccable@impeccable": true
   }
 }
