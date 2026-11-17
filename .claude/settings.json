@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "anthropics/claude-plugins-official"
       }
+    },
+    "hyperframes": {
+      "source": {
+        "source": "github",
+        "repo": "heygen-com/hyperframes"
+      }
     }
   },
   "enabledPlugins": {
-    "mattpocock-skills@claude-plugins-official": true
+    "mattpocock-skills@claude-plugins-official": true,
+    "hyperframes@hyperframes": true
   }
 }
